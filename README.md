@@ -16,5 +16,8 @@ This Python script takes in a list of tweets and calculates the degree of racial
 ## Usage
 
 1. Add the tweets you want to analyze to the `tweets.txt` file, with each tweet on a new line.
-2. Run the script by running the following command in your terminal: `python3 affinity.py`.
+2. Run the script by running the following command in your terminal:
+    ```sh
+    python3 affinity.py
+    ```
 3. The results will be saved in a new file named `output.json`
